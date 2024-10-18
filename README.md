@@ -1,3 +1,2 @@
-# demo02
-
-A new Flutter project.
+# YidongDemo02
+移动第三次培训Demo
